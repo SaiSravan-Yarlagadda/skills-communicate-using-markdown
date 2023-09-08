@@ -1,2 +1,2 @@
-<h1>Header</h1>
-<h2>Heading2</h2>
+#heading1
+##Heading2
